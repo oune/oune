@@ -3,8 +3,8 @@
 개발에 관련된 이야기를 하는것을 좋아합니다.
 #자연어 처리 #함수형 프로그래밍 #리팩토링 #좋은 설계
 
-자연어 처리 연구실, 인공지능 연구실 경험으로
-자연어 처리 모델 개발, 인공지능 모델개발, 프로젝트 경험 들을 가지고 있고 프로젝트 적용한 경험이 있습니다.
+프로젝트에서 주로 백엔드 개발과, 서버 배포, 관리의 역할을 맡아왔습니다.
+자연어처리연구실 경험으로 자연어처리에 관한 지식을 가지고 있습니다.
 
 ### Hi there 👋
 
@@ -29,39 +29,33 @@
   src="https://img.shields.io/badge/IntelliJ IDEA-010101.svg?&style=for-the-badge&logo=IntelliJ IDEA&logoColor=white" />
 
 ## Projects
-## [금오공대 벼룩시장]
-
+## 금오공대 벼룩시장
 Node.js, Express, Google Cloud Functions, firestoreDatabase, hosting
-
 코로나로 인해 교내 벼룩시장 비대면 예약 시스템이 필요하게 된 상황에서 백엔드 개발자로 참여해 프론트엔드 개발자들과 협업하여 요구분석, 설계, 문서화, 대부분의 API 서버 구현을 담당하였습니다.
-
-### WEB PAGE
-[flea-book](https://kit-fleamarket.web.app/)
-
-### blog
+[web page](https://kit-fleamarket.web.app/)
 [금오공대 벼룩시장 후기](https://velog.io/@oune/벼룩시장-후기)
 
-## [고장진단 시스템]
-socket-io, svelte, node.js. express
-
+## 고장진단 시스템
+socket-io, svelte, node.js. express, python fastapi
 고장진단시스템의 프론트엔드 화면을 svelte와 sockeio 를 이용하여 구현하였고, api 서버를 nodejs 를 이용하여 소켓통신으로 센서로 부터 값을 받아서 모델과 상호작용하여 프론트에게 값을 전달하는 api 서버를 구현하였습니다.
+lstm-autoencoder 모델 구조를 이용하여 고장진단 모델을 구현하였고 python, fast-api 를 이용하여 백엔드 서버를 구현하였습니다.
 
-## [알려줄개] (전공지식 질의응답 시스템)
+## 알려줄개 (전공지식 질의응답 시스템)
 Bert, django
 qa 시스템에서 필요한 언어모델과, django를 사용하여 간단한 웹서버 flask를 이용하여 API 서버를 개발하였습니다.
 
 [컴퓨터공학 QnA 프로젝트 아이디어 설계편](https://velog.io/@oune/%EC%BB%B4%ED%93%A8%ED%84%B0%EA%B3%B5%ED%95%99-QnA-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%95%8C%EB%A0%A4%EC%A4%84%EA%B0%9C-%EC%A0%84%ED%8E%B8)
 [컴퓨터공학 QnA 프로젝트 구현과 구조](https://velog.io/@oune/%EC%BB%B4%ED%93%A8%ED%84%B0%EA%B3%B5%ED%95%99-QnA-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%95%8C%EB%A0%A4%EC%A4%84%EA%B0%9C-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EA%B5%AC%EC%A1%B0%ED%8E%B8)
 
-## [Docter] (고쳐줄개)
+## Docter (고쳐줄개)
 docker, node.js, express, bert
 
 맞춤법검사, 다음단어 추천, 유사단어 추천 기능을 제공하는 웹페이지의 모델과, 백엔드 기능, 사전서버의 도커를 통한 배포를 진행하였습니다.
 
-## [영업관리 시스템]
+## 영업관리 시스템
 php, laravel
 한 회사에서 영업관리 시스템의 외주를 맡아 팀원들과 함께 개발습니다.
-해당 프로젝트에서 사용자 화면 일부, 백엔드, 데이터베이스 설계를 맡아서 진행했성습니다
+해당 프로젝트에서 사용자 화면 일부, 백엔드, 데이터베이스 설계를 맡아서 진행했습니다
 
 ## [과제 채점 시스템]
 spring, svelte
